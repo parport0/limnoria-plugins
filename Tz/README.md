@@ -1,1 +1,1 @@
-Fetch tz info (!tz <timezone>)
+Fetch tz info (`!tz <timezone>`)
